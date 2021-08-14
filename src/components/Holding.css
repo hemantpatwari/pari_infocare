@@ -1,0 +1,56 @@
+.holding {
+  width: 85rem;
+}
+
+.holdingHeader {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 25px 40px 13px 40px;
+}
+
+.holdingHeaderLeft {
+  font-size: 1.5rem;
+  padding: 10px 40px 13px 40px;
+  color: rgb(99, 94, 94);
+}
+
+.holdingHeaderRight {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: rgb(41, 103, 145);
+  font-size: 1.1rem;
+  font-weight: 600;
+}
+
+.holdingHeaderRight > div {
+  padding: 10px 40px 13px 40px;
+}
+
+.board {
+  display: grid;
+  grid-template-rows: 35px 35px 35px 35px;
+  grid-template-columns: 30% 30% 30%;
+  justify-content: center;
+}
+
+.box {
+  background: white;
+  border: 1.5px solid rgb(161, 154, 154);
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  color: rgb(105, 100, 100);
+}
+
+.boxNoBorder {
+  background: white;
+  border: 1.5px solid rgb(161, 154, 154);
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  color: rgb(105, 100, 100);
+  border-left-style: none;
+  border-right-style: none;
+}
