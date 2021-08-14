@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/pari_infocare_test/static/css/main.93e4e526.chunk.css",
+    "main.js": "/pari_infocare_test/static/js/main.86ca9b67.chunk.js",
+    "main.js.map": "/pari_infocare_test/static/js/main.86ca9b67.chunk.js.map",
+    "runtime-main.js": "/pari_infocare_test/static/js/runtime-main.619bc610.js",
+    "runtime-main.js.map": "/pari_infocare_test/static/js/runtime-main.619bc610.js.map",
+    "static/js/2.89816877.chunk.js": "/pari_infocare_test/static/js/2.89816877.chunk.js",
+    "static/js/2.89816877.chunk.js.map": "/pari_infocare_test/static/js/2.89816877.chunk.js.map",
+    "index.html": "/pari_infocare_test/index.html",
+    "static/css/main.93e4e526.chunk.css.map": "/pari_infocare_test/static/css/main.93e4e526.chunk.css.map",
+    "static/js/2.89816877.chunk.js.LICENSE.txt": "/pari_infocare_test/static/js/2.89816877.chunk.js.LICENSE.txt",
+    "static/media/Dougnut.41b7ff51.JPG": "/pari_infocare_test/static/media/Dougnut.41b7ff51.JPG",
+    "static/media/profile_pic.1c835a46.jpg": "/pari_infocare_test/static/media/profile_pic.1c835a46.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.619bc610.js",
+    "static/js/2.89816877.chunk.js",
+    "static/css/main.93e4e526.chunk.css",
+    "static/js/main.86ca9b67.chunk.js"
+  ]
+}
